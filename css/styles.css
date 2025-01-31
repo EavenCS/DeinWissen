@@ -1,0 +1,17 @@
+.quiz-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.question-card {
+    display: none;
+}
+
+.question-card.active {
+    display: block;
+}
+
+.progress {
+    height: 20px;
+    margin-bottom: 20px;
+}
